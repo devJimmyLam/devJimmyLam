@@ -2,11 +2,14 @@
 
 - :information_desk_person: About Me:
 
-  - I am a former IT Security Analyst turned Full Stack Developer who has passion for turning ideas into reality using technology. My career pivot came at a time where I wanted an outlet to use technology to positively increase efficiency in our daily lives. I have always had a love of dissecting problems and finding solutions, and I quickly found that software programming was the perfect path towards challenging my learning and productive output.
+  -I am a former IT Security Analyst turned Full Stack Developer who has a realization and passion for turning ideas into reality through technology. 
+		
+  -My decision to pursue a lifelong career in software development stemmed from my love for dissecting problems and finding solutions to those problems. Software programming allows me to develop solutions that impact our daily lives. 
 
-  - Graduating from an accelerated full-stack development course at Coding Dojo, the program equipped me with a proficient knowledge across 3 full-stack of MERN, Python and CSharp (C#) and many more technologies. I now have the ability to create end to end applications with a variety of dynamic, interactive projects affirmed my decision to pursue a lifelong career in software development.
+  -I graduated from an accelerated full-stack development course at Coding Dojo, which equipped me with a proficient knowledge across 3 full-stack of MERN, Python and CSharp (C#). I now have the ability to create end to end applications with a variety of dynamic and interactive projects. 
 
-  - Now, I am seeking opportunities to continue learning while challenging myself in the development field. I am eager to apply my skills and take on projects which will bring value and efficiency into our daily lives. My goal is to always build products that provide pixel-perfect, performant experiences.
+  -I am seeking opportunities to learn and challenge myself in the software engineering field. My goal is to build products and offer solutions that are user friendly, intuitive and efficient.
+
 
 
 - :earth_africa: How to reach me:
