@@ -20,6 +20,9 @@ I am seeking opportunities to learn and challenge myself in the software enginee
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dev.jimmylam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjimmylam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devjimmylam)
+
+
+[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJimmyLam&show_icons=true&theme=radical)](https://github.com/devjimmylam/github-readme-stats)
 <!--
 **devJimmyLam/devJimmyLam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
