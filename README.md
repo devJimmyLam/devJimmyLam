@@ -11,7 +11,7 @@ I am seeking opportunities to learn and challenge myself in the software enginee
 * Building personal project(s) to improve my frontend dev skills 
 
 ## 🎬 [Web Portfolio](https://devjimmylam.github.io/)
-- <a href="http://54.193.216.155/welcome"> Ticket Tracker </a>(educational) Bootstrap 4 | Java 8 | Spring Boot | MySQL 
+- <a href="http://54.193.216.155/welcome"> Ticket Tracker </a> Bootstrap 4 | Java 8 | Spring Boot | MySQL 
 - COMING MARCH 2021 <a href="#"> FlowersEverAfter.com </a> SASS | Material-UI | React | Node.js | Express | MongoDB 
 - COMING MARCH 2021 <a href="#"> SOUNDOSITY </a> SASS | Material-UI | React | Node.js | Express | MongoDB 
 
