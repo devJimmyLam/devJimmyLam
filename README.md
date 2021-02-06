@@ -15,8 +15,7 @@ I am seeking opportunities to learn and challenge myself in the software enginee
 - COMING MARCH 2021 <a href="#"> FlowersEverAfter.com </a> SASS | Material-UI | React | Node.js | Express | MongoDB 
 - COMING MARCH 2021 <a href="#"> SOUNDOSITY </a> SASS | Material-UI | React | Node.js | Express | MongoDB 
 
-## :earth_africa: Contact:
-💌 Find me around the web ⤵️
+## :earth_africa: Contact:⤵️
 
 [![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dev.jimmylam@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjimmylam)
