@@ -15,7 +15,12 @@ I am seeking opportunities to learn and challenge myself in the software enginee
 ## :earth_africa: Contact:
 <centered><a href="https://devjimmylam.github.io/">Website</a> • <a href="https://www.linkedin.com/in/devjimmylam/"> LinkedIn </a> • <a href="https://twitter.com/devjimmylam">Twitter</a></centered>
 
+💌 Find me around the web ⤵️
 
+
+[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kathleenyeh1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katyeh)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hellokatcodes)
 
 ## 🎬 Projects
 - <a href="http://54.193.216.155/welcome"> Ticket Tracker </a>(educational) Bootstrap 4 | Java 8 | Spring Boot | MySQL 
