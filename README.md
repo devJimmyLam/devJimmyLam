@@ -1,11 +1,9 @@
 <h3 align="center">👋 Hi, I'm Jimmy.</h3>
 
 <p align="center">
-  
-[![Portfolio](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Portfolio&logoColor=white)](https://devjimmylam.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devjimmylam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devjimmylam)
-
+  <a href="https://devjimmylam.github.io/">Website</a> •
+  <a href="https://www.linkedin.com/in/devjimmylam/">Linkedin</a> •
+  <a href="https://twitter.com/devjimmylam">Twitter</a>
 </p>
 
 
