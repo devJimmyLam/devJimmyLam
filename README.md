@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi, I'm Jimmy.</h3>
 
 <p align="center">
-  <a href="https://devjimmylam.github.io/">Website</a> •
+  <a href="https://www.devjimmylam.com">Website</a> •
   <a href="https://www.linkedin.com/in/devjimmylam/">Linkedin</a> •
   <a href="https://twitter.com/devjimmylam">Twitter</a>
 </p>
