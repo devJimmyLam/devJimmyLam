@@ -12,7 +12,7 @@ My goal is to build products and offer solutions that are user friendly, intuiti
 
 
 ### 🚧 Currently
-* Frontend Developer: Strong skills in [React](https://reactjs.org/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), HTML, CSS/Sass.
+* Frontend Developer: Strong skills in [React](https://reactjs.org/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/en/), [Express.js](https://expressjs.com/), [MongoDB](https://www.mongodb.com/3), HTML, CSS/Sass.
 * Software Engineer at GlobeChat
 * Building personal project(s) to improve my frontend dev skills. I love building intuitive user interfaces.
 * Designing a self-taught SWE blog for the developer community.
