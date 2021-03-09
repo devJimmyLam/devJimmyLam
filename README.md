@@ -12,7 +12,7 @@ My goal is to build products and offer solutions that are user friendly, intuiti
 
 
 ### 🚧 Currently
-* Full Stack [MERN](https://www.mongodb.com/mern-stack) Developer
+* Frontend Developer: Strong skills in [React](https://reactjs.org/), [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/), HTML, CSS/Sass.
 * Software Engineer at GlobeChat
 * Building personal project(s) to improve my frontend dev skills. I love building intuitive user interfaces.
 * Designing a self-taught SWE blog for the developer community.
