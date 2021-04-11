@@ -19,9 +19,9 @@ My goal is to build products and offer solutions that are user friendly, intuiti
 
 
 ### 🎬 [Web Portfolio](https://devjimmylam.github.io/)
-- COMING SOON <a href="#"> Ticket Tracker </a> Bootstrap 4 | Java 8 | Spring Boot | MySQL 
-- COMING SOON <a href="#"> FlowersEverAfter.com </a> Bootstrap 4 | React | Redux | Node.js | Express | MongoDB 
-- COMING SOON <a href="#"> WeatherCast </a> Bootstrap 4 | Angular | Node.js | Express | MongoDB 
+- COMING SOON <a href="https://www.devjimmylam.com/#portfolio"> Ticket Tracker </a>  Java 8 | Spring Boot | MySQL | SQL | HTML5 | CSS3 | SASS | Bootstrap 4 
+- COMING SOON <a href="https://www.devjimmylam.com/#portfolio"> FlowersEverAfter.com </a> ReactJS | Node.js | Express | MongoDB | HTML5 | CSS3 | Bootstrap 4
+- COMING SOON <a href="https://www.devjimmylam.com/#portfolio"> WeatherCast </a> Angular | Node.js | Express | MongoDB | HTML5 | CSS3 | Bootstrap 4
 
 [![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJimmyLam&show_icons=true&theme=radical)](https://github.com/devjimmylam/github-readme-stats)
 <!--
