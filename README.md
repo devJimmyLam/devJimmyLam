@@ -19,7 +19,7 @@ My goal is to build products and offer solutions that are user friendly, intuiti
 ### 🎬 [Web Portfolio](https://devjimmylam.github.io/)
 - <a href="https://www.devjimmylam.com/#portfolio"> Ticket Tracker </a>  Java 8 | Spring Boot | MySQL | SQL | HTML5 | CSS3 | SASS | Bootstrap 4 
 - <a href="https://www.devjimmylam.com/#portfolio"> FlowersEverAfter.com </a> ReactJS | Node.js | Express | MongoDB | HTML5 | CSS3 | Bootstrap 4
-- <a href="https://www.devjimmylam.com/#portfolio"> InstagramReactClone.com </a> ReactJS | Node.js| Firebase | HTML5 | CSS3 | Material UI
+- <a href="https://www.devjimmylam.com/#portfolio"> PhotoGram.com </a> ReactJS | Node.js| Firebase | HTML5 | CSS3 | Material UI
 
 [![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=devJimmyLam&show_icons=true&theme=radical)](https://github.com/devjimmylam/github-readme-stats)
 <!--
