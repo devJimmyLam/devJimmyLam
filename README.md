@@ -1,7 +1,6 @@
 <h3 align="center">👋 Hi, I'm Jimmy.</h3>
 
 <p align="center">
-  <a href="https://www.devjimmylam.com">Website</a> •
   <a href="https://www.linkedin.com/in/devjimmylam/">Linkedin</a> •
 </p>
 
